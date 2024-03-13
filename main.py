@@ -1,4 +1,4 @@
-from stack import Stack
+from Resources.stack import Stack
 
 print("\nLet's play Towers of Hanoi!!")
 
